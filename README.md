@@ -1,1 +1,1 @@
-# GambierdiscusTranscriptomes
+# Gambierdiscus Transcriptomes - Taxonomy
