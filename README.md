@@ -4,8 +4,8 @@ Welcome to my _Gambierdiscus_ project page! Through this page, I document the **
 
 Important locations:
 
-Publications:
-*_[Using RDNA sequences to define dinoflagellate species](https://doi.org/10.1371/journal.pone.0264143)_
+**Publications**:
+_[Using RDNA sequences to define dinoflagellate species](https://doi.org/10.1371/journal.pone.0264143)_
 
 **[FigShare](https://figshare.com/authors/Brittany_Ott/8615892)**
 
