@@ -1,3 +1,14 @@
 # Gambierdiscus Transcriptomes - Taxonomy
 
 Welcome to my _Gambierdiscus_ project page! Through this page, I document the **[procedures](https://github.com/brittanymareeott/GambierdiscusTranscriptomes/wiki/Procedures)** I used to examine _Gambierdiscus_ transcriptomes.
+
+Important locations:
+
+Publications:
+*_[Using RDNA sequences to define dinoflagellate species](https://doi.org/10.1371/journal.pone.0264143)
+
+**[FigShare](https://figshare.com/authors/Brittany_Ott/8615892)**
+
+**[Protocols.io](https://www.protocols.io/researchers/brittany-ott)**
+* _[Dinoflagellate Single Cell Transcriptome](dx.doi.org/10.17504/protocols.io.261ge8dpjg47/v1)_
+* _[Bacterial Travelers](dx.doi.org/10.17504/protocols.io.kxygxq3k4v8j/v1)_
