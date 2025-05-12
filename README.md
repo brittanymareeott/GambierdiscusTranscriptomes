@@ -10,5 +10,5 @@ Important locations:
 **[FigShare](https://figshare.com/authors/Brittany_Ott/8615892)**
 
 **[Protocols.io](https://www.protocols.io/researchers/brittany-ott)**
-* _[Dinoflagellate Single Cell Transcriptome](dx.doi.org/10.17504/protocols.io.261ge8dpjg47/v1)_
-* _[Bacterial Travelers](dx.doi.org/10.17504/protocols.io.kxygxq3k4v8j/v1)_
+* _[Dinoflagellate Single Cell Transcriptome](https://dx.doi.org/10.17504/protocols.io.261ge8dpjg47/v1)_
+* _[Bacterial Travelers](https://dx.doi.org/10.17504/protocols.io.kxygxq3k4v8j/v1)_
