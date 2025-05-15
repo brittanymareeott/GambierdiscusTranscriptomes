@@ -6,6 +6,7 @@ Important locations:
 
 **[Publications](https://scholar.google.com/citations?user=C2Q4MrIAAAAJ&hl=en&oi=ao)**
 * _[Using RDNA sequences to define dinoflagellate species](https://doi.org/10.1371/journal.pone.0264143)_
+* _[Literature analysis of how well rDNA sequence perform at delineating dinoflagellate species](https://www.researchgate.net/publication/363542191_Literature_analysis_of_how_well_rDNA_sequence_perform_at_delineating_dinoflagellate_species)
 
 **[FigShare](https://figshare.com/authors/Brittany_Ott/8615892)**
 
